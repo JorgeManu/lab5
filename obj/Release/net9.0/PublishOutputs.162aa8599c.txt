@@ -1,0 +1,16 @@
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\SparkHelloWorld.exe
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\microsoft-spark-2-4_2.11-2.1.1.jar
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\microsoft-spark-3-0_2.12-2.1.1.jar
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\microsoft-spark-3-1_2.12-2.1.1.jar
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\microsoft-spark-3-2_2.12-2.1.1.jar
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\SparkHelloWorld.dll
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\SparkHelloWorld.deps.json
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\SparkHelloWorld.runtimeconfig.json
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\SparkHelloWorld.pdb
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\Apache.Arrow.dll
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\Microsoft.Data.Analysis.dll
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\Microsoft.ML.DataView.dll
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\Microsoft.Spark.dll
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\Newtonsoft.Json.dll
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\Razorvine.Pyrolite.dll
+C:\Users\usuario\OneDrive\Escritorio\Lab6\lab6\SparkHelloWorld\publish\Razorvine.Serpent.dll
