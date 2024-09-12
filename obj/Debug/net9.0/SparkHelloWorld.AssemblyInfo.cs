@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SparkHelloWorld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceec90a5668bf2d41ccfc533e0e7d0a2076a8001")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ddd539add1d74169f38d60f3e7922a5681e96dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SparkHelloWorld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SparkHelloWorld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
